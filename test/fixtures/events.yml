@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  title: MyString
+  disp_flg: false
+  start: 2018-10-08 03:39:12
+  end: 2018-10-08 03:39:12
+  allDay: MyString
+  created_at: 2018-10-08 03:39:12
+  updated_at: 2018-10-08 03:39:12
+
+two:
+  user_id: 1
+  title: MyString
+  disp_flg: false
+  start: 2018-10-08 03:39:12
+  end: 2018-10-08 03:39:12
+  allDay: MyString
+  created_at: 2018-10-08 03:39:12
+  updated_at: 2018-10-08 03:39:12
